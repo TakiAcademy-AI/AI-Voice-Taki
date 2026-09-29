@@ -1,0 +1,10 @@
+# Reference recordings are biometric data — keep them off any remote.
+voices/*.wav
+voices/*.txt
+voices/.*.wav
+!voices/README.md
+
+__pycache__/
+*.pyc
+.venv/
+*.log
