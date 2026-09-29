@@ -4,6 +4,9 @@ voices/*.txt
 voices/.*.wav
 !voices/README.md
 
+# Generated speech in a cloned voice carries the same risk as the reference.
+out/
+
 __pycache__/
 *.pyc
 .venv/
